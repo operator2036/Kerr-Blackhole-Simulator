@@ -8,16 +8,32 @@ The project is designed as an educational and research-inspired visualization sy
 
 ## Demo
 
-![Demo Pics](Demo_Pics/1.jpg)
-![Demo Pics](Demo_Pics/2.jpg)
-![Demo Pics](Demo_Pics/3.jpg)
-![Demo Pics](Demo_Pics/4.jpg)
-![Demo Pics](Demo_Pics/5.jpg)
-![Demo Pics](Demo_Pics/6.jpg)
-![Demo Pics](Demo_Pics/8.jpg)
-![Demo Pics](Demo_Pics/7.jpg)
-![Demo Pics](Demo_Pics/9.jpg)
-![Demo Pics](Demo_Pics/10.jpg)
+## Demo Screenshots
+
+<p align="center">
+  <img src="Demo%20Pics/1.jpg" width="48%" />
+  <img src="Demo%20Pics/2.jpg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Demo%20Pics/3.jpg" width="48%" />
+  <img src="Demo%20Pics/4.jpg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Demo%20Pics/5.jpg" width="48%" />
+  <img src="Demo%20Pics/6.jpg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Demo%20Pics/7.jpg" width="48%" />
+  <img src="Demo%20Pics/8.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Demo%20Pics/9.png" width="48%" />
+  <img src="Demo%20Pics/10.png" width="48%" />
+</p>
 
 Recommended demo sequence:
 
