@@ -8,7 +8,16 @@ The project is designed as an educational and research-inspired visualization sy
 
 ## Demo
 
-> Demo video and screenshots coming soon.
+![Demo Pics](Demo_Pics/1.jpg)
+![Demo Pics](Demo_Pics/2.jpg)
+![Demo Pics](Demo_Pics/3.jpg)
+![Demo Pics](Demo_Pics/4.jpg)
+![Demo Pics](Demo_Pics/5.jpg)
+![Demo Pics](Demo_Pics/6.jpg)
+![Demo Pics](Demo_Pics/8.jpg)
+![Demo Pics](Demo_Pics/7.jpg)
+![Demo Pics](Demo_Pics/9.jpg)
+![Demo Pics](Demo_Pics/10.jpg)
 
 Recommended demo sequence:
 
