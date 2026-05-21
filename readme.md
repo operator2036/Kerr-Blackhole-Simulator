@@ -41,12 +41,8 @@ The project is designed as an educational and research-inspired visualization sy
 
 <p align="center">
   <img src="bh-v5-1779296801780.png" width="48%" />
-</p>
-
-<p align="center">
   <img src="bh-v5-1779297133461.png" width="48%" />
 </p>
-
 
 
 Recommended demo sequence:
