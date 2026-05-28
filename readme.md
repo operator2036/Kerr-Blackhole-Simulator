@@ -621,7 +621,3 @@ This project is a physics-inspired visualization and machine learning demonstrat
 The purpose is educational, experimental, and exploratory.
 
 ---
-
-## One-Line Summary
-
-**Neural Gravity Lab** is a real-time WebGL black hole visualization system with GLSL gravitational lensing, cinematic accretion disk rendering, and an in-browser TensorFlow.js synthetic gravitational-wave classifier.
